@@ -10,4 +10,4 @@ https://www.youtube.com/channel/UCY6udc0xGTSyYXbqi6P-r5g
 The playlist link for the videos is:
 https://www.youtube.com/playlist?list=PL--sgEg6Of2Y5GZDRe9MNTO0LCC0ITKm8
 
-In this code I wrote a program to print "Hello World!".
+In this code I wrote a program to calculate the area of a triangle.
